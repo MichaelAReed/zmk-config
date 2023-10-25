@@ -23,7 +23,7 @@
 
     Raise_layer {
       bindings = <
-        &trans &kp PG_UP &trans &kp UP &trans &kp PG_DN &kp CARET &kp AMPERSAND &kp ASTERISK &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp BACKSPACE &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &kp MINUS &kp EQUAL &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp BACKSLASH &kp GRAVE &trans &trans &trans &trans &trans &trans &kp UNDERSCORE &kp PLUS &kp LEFT_BRACE &kp RIGHT_BRACE &kp PIPE &kp TILDE &trans &trans &trans &trans &trans &trans 
+        &trans &kp PG_UP &trans &kp UP &trans &kp PG_DN &kp PG_UP &trans &kp UP &trans &kp PG_DN &trans &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans 
       >;
     };
 
