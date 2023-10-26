@@ -37,12 +37,13 @@
 
     Raise_layer {
       bindings = <
-        &bootloader &trans &trans &trans &trans &trans &trans &kp PG_UP &kp UP &kp PG_DN &trans &trans &trans &trans &trans &trans &kp LEFT_GUI &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT &trans &kp RIGHT &trans &trans &trans 
+        &bootloader &trans &trans &trans &trans &trans &trans &kp PG_UP &kp UP &kp PG_DN &trans &bootloader &trans &trans &trans &trans &kp LEFT_GUI &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT &trans &kp RIGHT &trans &trans &trans 
       >;
     };
 
   };
 };
+
 &led_strip {
     chain-length = <27>;
 };
