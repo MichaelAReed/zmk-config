@@ -24,7 +24,7 @@
 
     Raise_layer {
       bindings = <
-        &none &none &kp PG_UP &kp UP &kp PG_DN &none &rgb_ug RGB_BRI &rgb_ug RGB_EFF &none &none &none &none &none &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &rgb_ug RGB_BRD &rgb_ug RGB_HUI &none &none &none &none &none &none &none &none &none &none &none &none &none &none &none &none &kp HOME &kp END &none &none &none &none 
+        &kp ESCAPE &none &kp PG_UP &kp UP &kp PG_DN &none &rgb_ug RGB_BRI &rgb_ug RGB_EFF &none &none &none &none &none &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &rgb_ug RGB_BRD &rgb_ug RGB_HUI &none &none &none &none &none &none &none &none &none &none &none &none &none &none &none &none &kp HOME &kp END &none &none &none &none 
       >;
     };
 
