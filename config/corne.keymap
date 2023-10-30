@@ -38,7 +38,7 @@
 
     Raise_layer {
       bindings = <
-        LALT(TAB) &bootloader &bt BT_CLR &trans &trans &trans &trans &kp PG_UP &kp UP &kp PG_DN &trans &bootloader &trans &trans &trans &trans &kp LEFT_GUI &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT &kp RIGHT &kp DEL &trans &trans &trans 
+        &kp LALT(TAB) &bootloader &bt BT_CLR &trans &trans &trans &trans &kp PG_UP &kp UP &kp PG_DN &trans &bootloader &trans &trans &trans &trans &kp LEFT_GUI &trans &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT &kp RIGHT &kp DEL &trans &trans &trans 
       >;
     };
 
