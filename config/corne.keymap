@@ -26,7 +26,7 @@
 
     Base_layer {
       bindings = <
-        &none &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P &kp LEFT_BRACKET &none &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMICOLON &kp RIGHT_BRACKET &none &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &kp SINGLE_QUOTE &hm LALT DEL &hm LCTRL TAB &lt LOWER SPACE &hm LSHFT BACKSPACE &lt RAISE RETURN &kp ESCAPE 
+        &none &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P &none &none &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMICOLON &none &none &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &none &hm LALT DEL &hm LCTRL TAB &lt LOWER SPACE &hm LSHFT BACKSPACE &lt RAISE RETURN &kp ESCAPE 
       >;
     };
 
