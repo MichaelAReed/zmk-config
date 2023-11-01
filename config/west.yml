@@ -5,13 +5,13 @@ manifest:
     - name: pmw33xx
       url-base: https://github.com/Luberry
   projects:
-    # - name: zmk
-    #   remote: zmkfirmware
-    #   revision: main
-    #   import: app/west.yml
     - name: zmk
-      remote: pmw33xx
-      revision: pmw3389
+      remote: zmkfirmware
+      revision: main
       import: app/west.yml
+    # - name: zmk
+    #   remote: pmw33xx
+    #   revision: pmw3389
+    #   import: app/west.yml
   self:
     path: config
